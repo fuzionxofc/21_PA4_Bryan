@@ -9,3 +9,17 @@ components, or subsystems that have been created by multiple programmers or
 programming teams.
 Integration Testing is conducted by Developers
 It is type of (blackbox)
+
+Updated by 22_Irham
+
+System Testing
+System testing is the execution of the software in its final version or state  It tests for issues that can’t be tested at lower levels of
+integration.
+System testing is conducted by a team that is independent of the development team
+System testing falls under Blackbox testing
+
+Acceptance Testing
+The goal of acceptance testing is to evaluate and validate that the system’s functionality meets the customer’s requirements, standards and business needs before
+the final delivery.
+Acceptance Testing is done by Customers and End-Users
+Acceptance Testing falls under Blackbox Testing
